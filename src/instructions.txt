@@ -1,0 +1,4 @@
+F = forward 2
+S = scale 0.8
++ = turn 22.5
+- = turn -22.5
